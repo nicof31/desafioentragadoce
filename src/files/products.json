@@ -1,0 +1,153 @@
+[
+  {
+    "title": "Producto 1",
+    "description": "creado 1",
+    "code": "# prueba ID 1",
+    "price": 150,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 9,
+    "_id": 1
+  },
+  {
+    "title": "Producto 2",
+    "description": "creado 2",
+    "code": "# prueba ID 2",
+    "price": 150,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 0,
+    "_id": 2
+  },
+  {
+    "title": "Producto 3",
+    "description": "creado 3",
+    "code": "# prueba ID 3",
+    "price": 150,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 93,
+    "_id": 3
+  },
+  {
+    "title": "Producto 4",
+    "description": "creado 4",
+    "code": "# prueba ID 4",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 0,
+    "_id": 4
+  },
+  {
+    "title": "Producto 5",
+    "description": "creado 5",
+    "code": "# prueba ID 5",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 993,
+    "_id": 5
+  },
+  {
+    "title": "Producto 6",
+    "description": "creado 6",
+    "code": "# prueba ID 6",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [],
+    "stock": 998,
+    "_id": 6
+  },
+  {
+    "title": "prueba patch 7",
+    "description": "modificado 7",
+    "code": "# prueba ID 7 ",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 100,
+    "_id": 7
+  },
+  {
+    "title": "Producto 8",
+    "description": "creado 8",
+    "code": "# prueba ID 8",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 999,
+    "_id": 8
+  },
+  {
+    "title": "Producto 9",
+    "description": "creado 9",
+    "code": "# prueba ID 9",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 1000,
+    "_id": 9
+  },
+  {
+    "title": "Producto 10",
+    "description": "creado 10",
+    "code": "# prueba ID 10",
+    "price": 1500,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "creado ",
+      "creado  2"
+    ],
+    "stock": 1000,
+    "_id": 10
+  },
+  {
+    "title": "prueba 11 prueba put",
+    "description": "modificado por metodo put REP11---",
+    "code": "# prueba ID REPO-PUT-11",
+    "price": 100,
+    "status": true,
+    "category": "notebooks",
+    "thumbnail": [
+      "modificado put",
+      "modificado put "
+    ],
+    "stock": 99,
+    "_id": 11
+  }
+]

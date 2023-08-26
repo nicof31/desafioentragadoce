@@ -1,0 +1,13 @@
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-08-26T14:01:11.883Z","timestamp":"2023-08-26T14:01:11.883Z"}
+{"level":"error","message":"UNAUTHORIZED ERROR - Credenciales inválidas","timestamp":"2023-08-26T14:01:12.029Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/ - time: 2023-08-26T14:01:43.257Z","timestamp":"2023-08-26T14:01:43.257Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-08-26T14:02:00.742Z","timestamp":"2023-08-26T14:02:00.742Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-08-26T14:02:00.910Z","timestamp":"2023-08-26T14:02:00.910Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-08-26T14:02:17.948Z","timestamp":"2023-08-26T14:02:17.948Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369ca - time: 2023-08-26T14:02:23.682Z","timestamp":"2023-08-26T14:02:23.682Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos CastError: Cast to ObjectId failed for value \"64d6918281b7b7f0b2d9369ca\" (type string) at path \"_id\" for model \"carts\"","timestamp":"2023-08-26T14:02:23.692Z"}
+{"level":"info","message":"Method: GET, url: /api/logger/loggerTest - time: 2023-08-26T14:03:04.240Z","timestamp":"2023-08-26T14:03:04.240Z"}
+{"level":"fatal","message":"FATAL => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: fatal","timestamp":"2023-08-26T14:03:04.241Z"}
+{"level":"error","message":"ERROR => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: error","timestamp":"2023-08-26T14:03:04.242Z"}
+{"level":"warning","message":"WARNING => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: warning","timestamp":"2023-08-26T14:03:04.242Z"}
+{"level":"info","message":"INFO => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: info","timestamp":"2023-08-26T14:03:04.243Z"}

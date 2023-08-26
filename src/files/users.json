@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "b7cad96a-498d-4fc2-a38f-9f5ee122dfc7",
+    "email": "postaman@gmail.com",
+    "password": "$2b$10$UA9baU7BfJaaFiCezt64muUesm/GL69wXdg8Z6W3BumKzPFOPBQCK",
+    "first_name": "Nicolas",
+    "last_name": "Postamn",
+    "age": 37,
+    "role": "USER",
+    "cart": "2be9191b-52cb-4c00-beb5-e0bbdcdcf62a"
+  },
+  {
+    "_id": "1b206f27-78f2-4f59-9756-a7e8cdabb1a4",
+    "email": "nfrugoni31@gmail.com",
+    "first_name": "Nicolas",
+    "last_name": "GITHUB",
+    "age": 19,
+    "role": "USER",
+    "cart": "b68d6273-fb64-4065-bfba-f4f6c3cd793d"
+  },
+  {
+    "_id": "ddc015a5-121f-4e96-bde0-49053c666aaf",
+    "email": "cv.ingenierialinux@gmail.com",
+    "first_name": "cvingenieria",
+    "last_name": "GITHUB",
+    "age": 19,
+    "role": "USER",
+    "cart": "3a5cdce2-dfce-4299-891b-dac53fcff042"
+  },
+  {
+    "_id": "77939a43-39db-4005-8ccf-cbf722f12445",
+    "email": "pruebaUno@gmail.com",
+    "password": "$2b$10$9i2cCmyHx/DwKWD8eFFOM.Xcunol6i17E1Sdev0mTPWQinbQr/SbK",
+    "first_name": "prueba",
+    "last_name": "uno",
+    "age": "50",
+    "role": "USER",
+    "cart": "48fed766-6593-4b25-9ec9-28401a5c09df"
+  },
+  {
+    "_id": "dedc586d-f816-4992-8225-516be07ba18a",
+    "email": "userAdmin@gmail.com",
+    "password": "$2b$10$UDuZotb3FrqB2siuyEkSwOUSMTc5OnxYWFkisaFAcBNXeTvJrVGc.",
+    "first_name": "user",
+    "last_name": "Admin",
+    "age": "50",
+    "role": "ADMIN",
+    "cart": "41cb016d-2acc-40d5-a29d-888569bb3767"
+  },
+  {
+    "_id": "acd3c2de-1079-4e08-88b9-fa4b072e720d",
+    "email": "userCoder@coder.com",
+    "password": "$2b$10$K9cfLFp0AzzqjuG/XYHb4.pyyBPeJU7.8.qEJcBL4gxCNlAf4eDGK",
+    "first_name": "Usuario",
+    "last_name": "Coder",
+    "age": "50",
+    "role": "USER",
+    "cart": "eaffc179-8fc8-45c6-9478-720fceffde61"
+  },
+  {
+    "_id": "48d8d284-0fe4-469b-9d22-03ed8a7f9522",
+    "email": "adminCoder@coder.com",
+    "password": "$2b$10$VCVqLg5H0PlMyRdXS8kP5OhNL5NwiMjB9sQiAB4pKzFF1ZpLgx1jm",
+    "first_name": "Administrador",
+    "last_name": "Coder",
+    "age": "50",
+    "role": "ADMIN",
+    "cart": "76513f96-81ee-4aa9-98a3-9a5b7ca2a878"
+  },
+  {
+    "_id": "42c07e3e-5be3-4903-9a0b-afe10e3e869c",
+    "email": "publicCoder@coder.com",
+    "password": "$2b$10$FtLENe/9MHqQFzyu7twBHuqk6O.Op3DElvLi667/dGC3NSYNVUBLi",
+    "first_name": "Publico",
+    "last_name": "Coder",
+    "age": "50",
+    "role": "PUBLIC",
+    "cart": "3d47dff1-90ac-4555-b9ab-31e018c1b862"
+  }
+]
